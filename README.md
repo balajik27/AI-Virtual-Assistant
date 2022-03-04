@@ -28,6 +28,24 @@ note: to install the pyaudio module many ways are there, but i highly recommend 
 I used wolframalpha module , which provides the result for some basic queries and some mathematical calculation. before you use wolframalpha you should create an app-id to get the help of wolframalpha , so i recommend a youtube video for you so you can follow the steps from video atlast you will get your app-id copy that and use it in our progarm.
 
   wolframalpha app-id youtube link : https://youtu.be/nkvXjkgQ6i4
+ 
+Functionality of this project: 
+    1.Send emails!
+    2.Give Current date and time.
+    3.Read news headlines and can provide link for that news.
+    4.Open command prompt ,word document, notepad etc. 
+    5.Do Wikipedia searches for you.
+    6.Open websites like Google, YouTube, etc., in a web browser.
+    7.Play music from the users system. 
+    8.Solution for basic mathematical calculations.
+
+             This assistant currently works online and performs basic tasks like weather updates, stream music, search Wikipedia, open desktop applications, etc. The functionality of the current system is limited to working online only. The upcoming updates of this assistant will have machine learning incorporated in the system which will result in better suggestions with IoT to control the nearby devices similar to what Amazon’s Alexa does. 
+
+
+
+
+
+
   
   
 

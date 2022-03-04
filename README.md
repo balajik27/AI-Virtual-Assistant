@@ -29,7 +29,7 @@ I used wolframalpha module , which provides the result for some basic queries an
 
   wolframalpha app-id youtube link : https://youtu.be/nkvXjkgQ6i4
  
-Functionality of this project: 
+Functionality of this project:    
     1. Send emails!  
     2. Give Current date and time.   
     3.Read news headlines and can provide link for that news.   

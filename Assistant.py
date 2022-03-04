@@ -26,7 +26,7 @@ engine.setProperty('voice',voices[0].id)
 musicdir="D:\\Music"  # add your music folder location
 songs = os.listdir(musicdir)
 
-app_id = 'RR8RAK-3P9VK59UJL'
+app_id = 'enter or paste your app-id here'
 
 email_list = {'name':'gmail-id'} # add your gmail id in the email_list {'name' : 'gmail_id'}
 
